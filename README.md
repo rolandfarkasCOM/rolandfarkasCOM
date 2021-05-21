@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rolandfarkasCOM aka Roland Farkas
 - 👀 I’m interested in open source, php, amp, nginx, secuirty and pretty much everything digital!
-- 🌱 I never stop learning!
+- 🌱 I'll never stop learning!
 - ✅ I’m looking to collaborate on open source projects!
 - 📫 Send me an e-mail: hello[at]rolandfarkas[dot]com
 
