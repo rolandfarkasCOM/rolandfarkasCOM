@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Roland
-- 👀 I’m interested in open source, php, amp, nginx, secuirty and pretty much everything digital!
+- ✅ Director @polarizeltd
+- 🌱 Helping businesses build and grow online using eco-friendly tools.
 
 <!---
 rolandfarkasCOM/rolandfarkasCOM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
