@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roland
-- ✅ Director @polarizeltd
+- ✅ Director of @polarizeltd
 - 🌱 Helping businesses build and grow online using eco-friendly tools.
 
 <!---
