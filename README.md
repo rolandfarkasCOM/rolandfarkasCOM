@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Roland
 - ✅ Director of @polarizeltd
 - 🌱 Helping businesses build and grow online using eco-friendly solutions.
-- 👨🏻‍💻 My stack is PHP/LEMP/AMP
+- 👨🏻‍💻 My stack is PHP/LEMP
 
 
 
