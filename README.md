@@ -1,11 +1,11 @@
 
 
-- 👋 Hi, I’m Roland
-- ✅ Director of @polarizeltd
+- 👋 Hi, I’m [Roland](https://www.rolandfarkas.com)
+- ✅ Director of [Polarize Ltd.](https://polarize.ltd)
 - 🌱 Helping businesses build and grow online using eco-friendly solutions.
 - 👨🏻‍💻 I work with LEMP, VUE, REST, JWT, HTML5, CSS3, AMP and WordPress.
 
-
+Check out [mcms](https://mcms.io) or [analyst.digital](https://analyst.digital)
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=rolandfarkasCOM)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rolandfarkasCOM)
