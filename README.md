@@ -9,7 +9,7 @@ Check out [mcms](https://mcms.io) or [analyst.digital](https://analyst.digital)
 
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=rolandfarkasCOM)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rolandfarkasCOM)
-![Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolandfarkasCOM) [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rolandfarkascom?cardType=level-alternate&theme=github)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rolandfarkascom?cardType=level-alternate&theme=github)](https://git.io/awesome-stats-card) ![Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolandfarkasCOM)
 <!---
 rolandfarkasCOM/rolandfarkasCOM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
