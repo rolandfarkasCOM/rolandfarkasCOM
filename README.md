@@ -3,7 +3,7 @@
 - 👋 Hi, I’m [Roland](https://www.rolandfarkas.com)
 - ✅ Director of [Polarize Ltd.](https://polarize.ltd)
 - 🌱 Helping businesses build and grow online using eco-friendly solutions.
-- 👨🏻‍💻 I work with LEMP, VUE, REST, JWT, HTML5, CSS3, JS(Jquery,Vue), AMP and WordPress.
+- 👨🏻‍💻 I work with LEMP, VUE, REST, JWT, HTML5, CSS3, JS(jQuery,Vue), AMP and WordPress.
 
 Check out [mcms](https://mcms.io) or [analyst.digital](https://analyst.digital)
 
