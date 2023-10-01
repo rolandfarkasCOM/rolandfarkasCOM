@@ -5,7 +5,7 @@
 - 🌱 Helping businesses build and grow online using eco-friendly solutions.
 - 👨🏻‍💻 I work with;
     * PHP
-    * LEMP
+    * LEMP/LAMP
     * REST/SOAP
     * JWT
     * HTML5
