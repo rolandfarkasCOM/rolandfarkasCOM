@@ -1,9 +1,9 @@
 
 
-## 👋 Hi, I’m [Roland](https://www.rolandfarkas.com)
-# ✅ Director of [Polarize Ltd.](https://polarize.ltd)
-# 🌱 Helping businesses build and grow online using eco-friendly solutions.
-# 👨🏻‍💻 I work with;
+### 👋 Hi, I’m [Roland](https://www.rolandfarkas.com)
+### ✅ Director of [Polarize Ltd.](https://polarize.ltd)
+### 🌱 Helping businesses build and grow online using eco-friendly solutions.
+### 👨🏻‍💻 I work with;
 * PHP
 * LEMP
 * REST/SOAP
