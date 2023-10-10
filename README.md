@@ -12,12 +12,15 @@
     * CSS3
     * JS
     * jQuery
-    * React
+    * React/React Native
+    * TypeScript
+    * CapacitorJS/Ionic
     * Vue
     * Electron
     * NodeJS
     * WebPack
     * AMP
+    * Python
     * WordPress
 
 Check out [mcms](https://mcms.io) or [analyst.digital](https://analyst.digital)
