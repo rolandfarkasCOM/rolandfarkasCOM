@@ -6,7 +6,7 @@
 - 🌱 Helping businesses build and grow online using eco-friendly solutions.
 - 👨🏻‍💻 I work with;
  
-![Languages and Tools](https://skillicons.dev/icons?i=php,html,css,sass,wordpress,js,jquery,react,vue,webpack,capacitor,ts,py,git,github,vscode,androidstudio,nodejs,figma,ae,ai,ps,svg,bootstrap,cloudflare,codepen,devto,electron,ipfs,linux,mysql,nginx,postman,powershell,raspberrypi,regex,tailwind,vite)
+![Languages and Tools](https://skillicons.dev/icons?i=php,html,css,sass,wordpress,js,jquery,react,vue,webpack,ts,py,git,github,vscode,androidstudio,nodejs,figma,ae,ai,ps,svg,bootstrap,cloudflare,codepen,devto,electron,ipfs,linux,mysql,nginx,postman,powershell,raspberrypi,regex,tailwind,vite)
 
 Check out [mcms](https://mcms.io) or [analyst.digital](https://analyst.digital)
 
