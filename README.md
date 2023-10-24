@@ -9,9 +9,8 @@
  
 ![Languages and Tools](https://skillicons.dev/icons?i=php,html,css,sass,wordpress,js,jquery,react,vue,webpack,ts,py,git,github,vscode,androidstudio,nodejs,figma,ae,ai,ps,svg,bootstrap,cloudflare,codepen,devto,electron,ipfs,linux,mysql,nginx,postman,powershell,raspberrypi,regex,tailwind,vite)
 
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=rolandfarkasCOM)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rolandfarkascom?cardType=level-alternate&theme=github)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rolandfarkasCOM&theme=dark&border_radius=4&card_width=450)](https://git.io/streak-stats)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rolandfarkasCOM)
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rolandfarkascom?cardType=level-alternate&theme=github)
 <!--
 rolandfarkasCOM/rolandfarkasCOM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
