@@ -16,8 +16,7 @@
 [<img align="left" width="22" alt="Roland Farkas on LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://linkedin.com/in/rolandfarkas)
 <br>
 
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rolandfarkascom?cardType=level-alternate&theme=dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rolandfarkasCOM&theme=dark&border_radius=4&card_width=400)](https://git.io/streak-stats)
-![Trophies](https://github-profile-trophy.vercel.app/?username=rolandfarkasCOM)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rolandfarkascom?cardType=level-alternate&theme=dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rolandfarkasCOM&theme=dark&border_radius=4&card_width=400)](https://git.io/streak-stats)![Trophies](https://github-profile-trophy.vercel.app/?username=rolandfarkasCOM)
 
 <!--
 rolandfarkasCOM/rolandfarkasCOM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
