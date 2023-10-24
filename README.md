@@ -5,26 +5,8 @@
 - ✅ Director of [Polarize Ltd.](https://polarize.ltd)
 - 🌱 Helping businesses build and grow online using eco-friendly solutions.
 - 👨🏻‍💻 I work with;
-    * PHP
-    * LEMP/LAMP
-    * REST/SOAP
-    * JWT
-    * HTML5
-    * CSS3
-    * JS
-    * jQuery
-    * React/React Native
-    * TypeScript
-    * CapacitorJS/Ionic
-    * Vue
-    * Electron
-    * NodeJS
-    * WebPack
-    * AMP
-    * Python
-    * WordPress
  
-![Languages and Tools](https://skillicons.dev/icons?i=php,html,css,sass,wordpress,js,jquery,react,vue,webpack,capacitorts,py,git,github,vscode,androidstudio,nodejs,figma,ae,ai,ps,svg,bootstrap,cloudflare,codepen,devto,electron,ipfs,linux,mysql,nginx,postman,powershell,raspberrypi,regex,tailwind,vite)
+![Languages and Tools](https://skillicons.dev/icons?i=php,html,css,sass,wordpress,js,jquery,react,vue,webpack,capacitor,ts,py,git,github,vscode,androidstudio,nodejs,figma,ae,ai,ps,svg,bootstrap,cloudflare,codepen,devto,electron,ipfs,linux,mysql,nginx,postman,powershell,raspberrypi,regex,tailwind,vite)
 
 Check out [mcms](https://mcms.io) or [analyst.digital](https://analyst.digital)
 
