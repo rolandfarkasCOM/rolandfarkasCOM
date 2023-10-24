@@ -9,8 +9,18 @@
  
 ![Languages and Tools](https://skillicons.dev/icons?i=php,html,css,sass,wordpress,js,jquery,react,vue,webpack,ts,py,git,github,vscode,androidstudio,nodejs,figma,ae,ai,ps,svg,bootstrap,cloudflare,codepen,devto,electron,ipfs,linux,mysql,nginx,postman,powershell,raspberrypi,regex,tailwind,vite)
 
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rolandfarkascom?cardType=level-alternate&theme=github)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rolandfarkasCOM&theme=dark&border_radius=4&card_width=450)](https://git.io/streak-stats)
+### Connect with me:
+
+[<img align="left" width="22" alt="Roland Farkas on Twitter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">](https://twitter.com/rofarkas)
+[<img align="left" width="22" alt="Roland Farkas on LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://linkedin.com/in/rolandfarkas)
+<br>
+
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rolandfarkascom?cardType=level-alternate&theme=dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rolandfarkasCOM&theme=dark&border_radius=4&card_width=450)](https://git.io/streak-stats)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rolandfarkasCOM)
+
+<p align="center">
+    <a href="https://github.com/rolandfarkasCOM"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rolandfarkasCOM&style=flat-square"></a>
+</p>
 <!--
 rolandfarkasCOM/rolandfarkasCOM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
