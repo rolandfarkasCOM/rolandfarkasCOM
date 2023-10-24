@@ -1,4 +1,4 @@
-
+<a href="https://rolandfarkas.com"><img alt="Website" src="https://img.shields.io/website?down_message=Offline&label=rolandfarkas.co&style=flat-square&up_message=Online&url=https%3A%2F%2Frolandfarkas.co"></a>
 
 - 👋 Hi, I’m [Roland](https://www.rolandfarkas.com)
 - ✅ Director of [Polarize Ltd.](https://polarize.ltd)
