@@ -4,7 +4,7 @@
 <a href="https://github.com/rolandfarkasCOM"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rolandfarkasCOM&style=flat-square"></a>
 
 - 👋 Hi, I’m [Roland](https://www.rolandfarkas.com)
-- ✅ Director of [Polarize Ltd.](https://polarize.ltd) | Full Stack Developer & Digital Marketer
+- ✅ Director of [Polarize Ltd.](https://www.polarize.ltd) | Full Stack Developer & Digital Marketer
 - 🌱 Helping businesses build and grow online using eco-friendly solutions.
 - 👨🏻‍💻 I work with;
  
