@@ -11,6 +11,10 @@
  
 ![Languages and Tools](https://skillicons.dev/icons?i=php,html,css,sass,wordpress,js,jquery,react,vue,webpack,ts,py,git,github,vscode,androidstudio,nodejs,figma,ae,ai,ps,svg,bootstrap,cloudflare,codepen,devto,electron,ipfs,linux,mysql,nginx,postman,powershell,raspberrypi,regex,tailwind,vite)
 
+### Digital Tool Collection (70+)
+
+[Digital Tool Collection](https://tools.rolandfarkas.com)
+
 ### Connect with me:
 
 [<img align="left" width="22" alt="Roland Farkas on Twitter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">](https://twitter.com/rofarkas)
