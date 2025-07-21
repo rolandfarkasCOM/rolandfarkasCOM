@@ -24,6 +24,8 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rolandfarkasCOM)
 
+<img src="https://cardpress.us/card?username=rolandfarkas&avatar=false" width="500" height="273" alt="WordPress.org profile card courtesy of CardPress">
+
 <!--
 rolandfarkasCOM/rolandfarkasCOM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
