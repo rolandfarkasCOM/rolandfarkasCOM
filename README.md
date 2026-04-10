@@ -1,5 +1,8 @@
 <a href="https://rolandfarkas.com"><img alt="Personal Website" src="https://img.shields.io/website?down_message=Offline&label=rolandfarkas.com&style=flat-square&up_message=Online&url=https%3A%2F%2Frolandfarkas.com"></a>
 <a href="https://polarize.ltd"><img alt="Company Website" src="https://img.shields.io/website?down_message=Offline&label=polarize.ltd&style=flat-square&up_message=Online&url=https%3A%2F%2Fpolarize.ltd"></a>
+<a href="https://analyst.digital"><img alt="Analyst.digital" src="https://img.shields.io/website?down_message=Offline&label=analyst.digital&style=flat-square&up_message=Online&url=https%3A%2F%2Fanalyst.digital"></a>
+<a href="https://cloudcore-cms.github.io"><img alt="Cloudcore CMS" src="https://img.shields.io/website?down_message=Offline&label=cloudcore-cms.github.io&style=flat-square&up_message=Online&url=https%3A%2F%2Fcloudcore-cms.github.io"></a>
+<a href="reviewmycode.dev"><img alt="reviewmycode.dev" src="https://img.shields.io/website?down_message=Offline&label=reviewmycode.dev&style=flat-square&up_message=Online&url=https%3A%2F%2Freviewmycode.dev"></a>
 <a href="https://github.com/rolandfarkasCOM"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rolandfarkasCOM&style=flat-square"></a>
 
 # Hi! I'm Roland Farkas  
